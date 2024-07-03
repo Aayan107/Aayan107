@@ -1,7 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Welcome to my page!
-I'm <strong>Aayan</strong>, Computer Science Grad Student at &nbsp;<img src="https://identity.usc.edu/wp-content/uploads/2022/09/Block-USC_on_black.png" alt="University Logo" style="height: 1.3em;  vertical-align: middle;">, currently living in <img src="https://img.icons8.com/color/512/197/usa.png" width="20"/> <b>Los Angeles, CA</b>. </p>
+<p>Welcome to my page!<br>
+I'm <strong>Aayan</strong>, Computer Science Grad Student at 
+  <img src="https://identity.usc.edu/wp-content/uploads/2022/09/Block-USC_on_black.png" alt="University Logo" style="height: 1.3em; vertical-align: middle;">, currently living in 
+  <img src="https://img.icons8.com/color/512/197/usa.png" width="20" style="vertical-align: middle;" /> 
+  <b>Los Angeles, CA</b>.
+</p>
 
 
 
