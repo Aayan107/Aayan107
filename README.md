@@ -7,11 +7,6 @@ I'm <strong>Aayan</strong>, Computer Science Grad Student at
   <b>Los Angeles, CA</b>.
 </p>
 
-
-
-<img src="https://profile-counter.glitch.me/{aayan107}/count.svg" alt="aayan107 :: Visitor's Count" />
-
-<br>
 <br>
 <h3>Things I code with</h3>
 <p>
@@ -52,5 +47,6 @@ I'm <strong>Aayan</strong>, Computer Science Grad Student at
   <a href="https://github.com/Aayan107"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
+<h3> Profile Views </h3>
+<img src="https://profile-counter.glitch.me/{aayan107}/count.svg" style="vertical-align: middle;"  alt="aayan107 :: Visitor's Count" />
 
