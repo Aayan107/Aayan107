@@ -3,7 +3,7 @@
 <p>Welcome to my page!<br>
 I'm <strong>Aayan</strong>, Computer Science Grad Student at 
   <img src="https://identity.usc.edu/wp-content/uploads/2022/09/Block-USC_on_black.png" alt="University Logo" width="40" style="vertical-align: middle;">, currently living in 
-  <img src="https://img.icons8.com/color/512/197/usa.png" width="30" style="vertical-align: middle;" /> 
+  <img src="https://img.icons8.com/color/512/197/usa.png" width="30" style="vertical-align: middle;"> 
   <b>Los Angeles, CA</b>.
 </p>
 
