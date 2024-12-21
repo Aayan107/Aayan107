@@ -34,8 +34,6 @@ I'm <strong>Aayan</strong>, Computer Science Grad Student at
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
 </p>
 
-<img src="https://myreadme.vercel.app/api/embed/aayan107?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="aayan107" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=aayan107&theme=juicyfresh" />
 
 <br>
